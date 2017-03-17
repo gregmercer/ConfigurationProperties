@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{5A111416-7D01-4B03-A9A6-A6262685AF61}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConfigurationSettings/ConfigurationSettings.cs">
+    <Files>
+      <File FileName="ConfigurationSettings/Program.cs" Line="9" Column="1" />
+      <File FileName="ConfigurationSettings/ConfigurationSettings.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/macgmercer/Desktop/projects/c#/ConfigurationSettings/ConfigurationSettings/ConfigurationSettings.cs" line="66" column="1" />
+      <Breakpoint file="/Users/macgmercer/Desktop/projects/c#/ConfigurationSettings/ConfigurationSettings/ConfigurationSettings.cs" line="65" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ConfigurationSettings PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
